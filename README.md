@@ -1,6 +1,6 @@
 # Muhammad Salman - Portfolio 🚀
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://ahmadgill-portfolio.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://muhammad-salman-portfolio.netlify.app/)
 
 A modern developer portfolio showcasing full-stack development expertise and Web3 exploration.
 
