@@ -31,9 +31,9 @@ const Navbar = () => {
             <Toolbar sx={{ justifyContent: 'space-between', flexWrap: 'wrap', gap: 2 }}>
                 <Box sx={{ display: 'flex', alignItems: 'center' }}>
                     <img
-                        src="/LogoWithName.png"
+                        src="/th1.jpeg"
                         alt="Portfolio logo"
-                        style={{ display: { xs: 'none', md: 'block' }, height: '80px' }}
+                        style={{ display: { xs: 'none', md: 'block' }, height: '200px' , backgroundColor: 'white' }}
                     />
                 </Box>
 
