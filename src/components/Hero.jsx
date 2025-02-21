@@ -23,12 +23,12 @@ const Hero = ({ onContactClick }) => {
         <Box sx={{ maxWidth: '600px', width: '90%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
           <Box
             component="img"
-            src={myProfile}
+            src={'/img3.jpg'}
             loading="lazy"
             alt="Profile"
             sx={{
-              width: { xs: 120, md: 150 },
-              height: { xs: 120, md: 150 },
+              width: { xs: 120, md: 160 },
+              height: { xs: 120, md: 170 },
               borderRadius: '50%',
               mb: { xs: 2, md: 3 },
               mx: 'auto'

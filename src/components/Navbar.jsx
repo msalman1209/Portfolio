@@ -29,13 +29,13 @@ const Navbar = () => {
     return (
         <StyledAppBar position="sticky">
             <Toolbar sx={{ justifyContent: 'space-between', flexWrap: 'wrap', gap: 2 }}>
-                <Box sx={{ display: 'flex', alignItems: 'center' }}>
+                {/* <Box sx={{ display: 'flex', alignItems: 'center' }}>
                     <img
-                        src="/th1.jpeg"
+                        src="/img3.jpg"
                         alt="Portfolio logo"
-                        style={{ display: { xs: 'none', md: 'block' }, height: '200px' , backgroundColor: 'white' }}
+                        style={{ display: { xs: 'none', md: 'block' }, height: '150px' , borderRadius: '150px', backgroundColor: 'white' }}
                     />
-                </Box>
+                </Box> */}
 
                 {/* Desktop Navigation */}
                 <Box sx={{
